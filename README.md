@@ -1,4 +1,5 @@
-#🎬 Movie Review Sentiment Analysis 🍿#
+# 🎬 Movie Review Sentiment Analysis 🍿
+
 Dive into the world of movie review sentiment analysis! 🕵️‍♀️ This deep learning project uses Keras and TensorFlow to classify the emotional tone of movie reviews with incredible accuracy.
 
 ✨ Key Features
@@ -16,8 +17,8 @@ Powered by epic movie review datasets:
 
 🚀 Interactive Exploration
  - Training the Model
-   # Train with magical hyperparameters! ✨
-python train.py \
+    Train with magical hyperparameters! ✨
+       python train.py \
     --dataset movie_reviews.csv \
     --epochs 10 \
     --magic-level ULTIMATE
